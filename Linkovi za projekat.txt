@@ -1,0 +1,23 @@
+Linkovi za projekat:
+
+https://www.primefaces.org/showcase/ui/overlay/dialog/loginDemo.xhtml
+
+https://www.primefaces.org/showcase/ui/multimedia/galleria.xhtml
+
+https://stackoverflow.com/questions/5955130/jsf-page-redirecting-from-java-bean
+
+https://stackoverflow.com/questions/22095583/redirect-from-managed-bean-event-jsf?rq=1
+
+https://stackoverflow.com/questions/4032825/how-to-make-a-redirection-in-jsf
+
+https://stackoverflow.com/questions/24352892/jsf-redirect-to-another-page-and-open-dialog
+
+https://www.youtube.com/watch?v=AIHs0lsbuls
+
+https://www.google.rs/search?q=how+to+add+database+containing+iages+in+php+my+damin&rlz=1C1CHBF_enRS763RS763&oq=how+to+add+database+containing+iages+in+php+my+damin&aqs=chrome..69i57.18255j0j8&sourceid=chrome&ie=UTF-8
+
+https://www.primefaces.org/showcase/ui/ajax/validation.xhtml
+
+http://localhost:16471/KI401Projekat_V8/
+
+http://localhost:16471/KI401Projekat_V8/faces/welcomePrimefaces.xhtml
